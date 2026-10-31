@@ -1,0 +1,10 @@
+{
+  "version": "2.2.1",
+  "notes": "New update with improved performance and bug fixes.",
+  "downloads": {
+    "android": "https://github.com/<user>/<repo>/releases/download/v2.2.1/Vocab-Dex.apk",
+    "windows": "https://github.com/<user>/<repo>/releases/download/v2.2.1/Vocab-Dex.exe",
+    "macos": "https://github.com/<user>/<repo>/releases/download/v2.2.1/Vocab-Dex.dmg",
+    "linux": "https://github.com/<user>/<repo>/releases/download/v2.3.0/Vocab-Dex.deb"
+  }
+}
