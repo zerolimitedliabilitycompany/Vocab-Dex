@@ -1,10 +1,10 @@
 {
-  "version": "2.5.1",
+  "version": "2.5.2",
   "notes": "New update with improved performance and bug fixes.",
   "downloads": {
-    "android": "https://github.com/zerolimitedliabilitycompany/Vocab-Dex/releases/download/v2.5.1/Vocab-Dex.apk",
-    "windows": "https://github.com/zerolimitedliabilitycompany/Vocab-Dex/releases/download/v2.5.1/Vocab-Dex.exe",
-    "macos": "https://github.com/zerolimitedliabilitycompany/Vocab-Dex/releases/download/v2.5.1/Vocab-Dex.dmg",
-    "linux": "https://github.com/zerolimitedliabilitycompany/Vocab-Dex/releases/download/v2.5.1/Vocab-Dex.deb"
+    "android": "https://github.com/zerolimitedliabilitycompany/Vocab-Dex/releases/download/v2.5.2/Vocab-Dex.apk",
+    "windows": "https://github.com/zerolimitedliabilitycompany/Vocab-Dex/releases/download/v2.5.2/Vocab-Dex.exe",
+    "macos": "https://github.com/zerolimitedliabilitycompany/Vocab-Dex/releases/download/v2.5.2/Vocab-Dex.dmg",
+    "linux": "https://github.com/zerolimitedliabilitycompany/Vocab-Dex/releases/download/v2.5.2/Vocab-Dex.deb"
   }
 }
